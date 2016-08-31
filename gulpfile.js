@@ -3,7 +3,6 @@ var autoprefixer = require('gulp-autoprefixer');
 var cleancss = require('gulp-clean-css');
 var rename = require('gulp-rename');
 var stylus = require('gulp-stylus');
-var uglify = require('gulp-uglify');
 
 gulp.task('stylus', function(){
 
