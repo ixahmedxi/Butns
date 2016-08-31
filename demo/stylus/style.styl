@@ -1,0 +1,95 @@
+$theme = #9c00ff
+$white = white
+$black = #111111
+$semi-transparent = rgba(255, 255, 255, 0.5)
+$semi-black-transparent = rgba(0, 0, 0, 0.5)
+body
+  font-family: 'Josefin Sans', sans-serif
+// Header Page
+.header_page
+  height: 75vh
+  width: 100%
+  display: flex
+  align-items: center
+  justify-content: center
+  background: url(../img/background-image.png) center center no-repeat
+  background-size: cover
+  color: white
+  .container-fluid
+    .text-center
+      opacity: .9
+      h1
+        font-size: 80px
+        font-family: 'Pacifico', sans-serif
+      h3
+        margin-bottom: 15px
+      a
+        font-family: 'Josefin Sans', sans-serif
+        margin-bottom: 10px
+        &:hover
+          color: $theme !important
+// About Section
+.about_section
+  padding-top: 50px
+  padding-bottom: 50px
+  color: rgba(0, 0, 0, 0.7)
+  .container
+    .text-center
+      h2
+        border-bottom: 1px solid $theme
+        display: inline-block
+        padding-left: 10px
+        padding-right: 10px
+// Demo section
+.demo_section
+  color: rgba(0, 0, 0, 0.7)
+  .container
+    .text-center
+      h2
+        border-bottom: 1px solid $theme
+        display: inline-block
+        padding-right: 10px
+        padding-left: 10px
+      a
+        margin-top: 10px
+        margin-bottom: 10px
+.button_options
+  color: rgba(0, 0, 0, 0.7)
+  .container
+    .text-center
+      .row
+        clear: both
+        a
+          margin-bottom: 10px
+        .col-lg-6.col-md-6.col-sm-12.col-xs-12
+          h2
+            border-bottom: 1px solid $theme
+            display: inline-block
+            padding-left: 10px
+            padding-right: 10px
+        .col-lg-12.col-md-12.col-sm-12.col-xs-12
+          h2
+            border-bottom: 1px solid $theme
+            display: inline-block
+            padding-right: 10px
+            padding-left: 10px
+.usage_section
+  color: rgba(0, 0, 0, 0.7)
+  .container
+    .text-center
+      h2
+        border-bottom: 1px solid $theme
+        display: inline-block
+        padding-right: 10px
+        padding-left: 10px
+      h3
+        padding-top: 30px
+        margin-bottom: 30px
+        border-bottom: 1px solid $theme
+        display: inline-block
+        padding-right: 10px
+        padding-left: 10px
+      .row
+        .col-lg-6.col-md-6.col-sm-12.col-xs-12
+          h4
+            color: $theme
