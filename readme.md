@@ -2,7 +2,7 @@
 Butns is an advanced buttons library for your website, using a set of pre defined classes you can fully customize your button and step up your website's design.
 
 ## Demo
- You can check the demo here: https://ahmedtarek2134.github.io/butns-demo
+ You can check the demo here: https://ahmedtarek2134.github.io/Butns
 
 ## Colours
 Butns offers 12 different colour choises in version 1.0.0
