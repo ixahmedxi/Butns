@@ -1,7 +1,6 @@
 var gulp = require('gulp');
 var autoprefixer = require('gulp-autoprefixer');
 var cleancss = require('gulp-clean-css');
-var pug = require('gulp-pug');
 var rename = require('gulp-rename');
 var stylus = require('gulp-stylus');
 var uglify = require('gulp-uglify');
@@ -27,13 +26,6 @@ gulp.task('minify', function(){
 
 });
 
-gulp.task('demo-pug', function(){
-
-    return gulp.src('*.pug')
-    .pipe(pug())
-    .pipe(gulp.dest('./'));
-
-});
 
 gulp.task('demo-stylus', function(){
 
