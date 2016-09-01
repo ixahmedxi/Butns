@@ -625,3 +625,99 @@
   background-color: #888;
   color: #fff;
 }
+.button.gradient-red {
+  background: linear-gradient(#ff774d, #ff3c00);
+  color: #fff;
+  border-color: #ff3c00;
+}
+.button.gradient-red:hover {
+  background: linear-gradient(#ff774d, #cc3000);
+}
+.button.gradient-orange {
+  background: linear-gradient(#ffb14d, #ff9000);
+  color: #fff;
+  border-color: #ff9000;
+}
+.button.gradient-orange:hover {
+  background: linear-gradient(#ffb14d, #cc7300);
+}
+.button.gradient-yellow {
+  background: linear-gradient(#ffe44d, #ffd800);
+  color: #fff;
+  border-color: #ffd800;
+}
+.button.gradient-yellow:hover {
+  background: linear-gradient(#ffe44d, #ccad00);
+}
+.button.gradient-lime {
+  background: linear-gradient(#3bff3b, #00e600);
+  color: #fff;
+  border-color: #00e600;
+}
+.button.gradient-lime:hover {
+  background: linear-gradient(#3bff3b, #00b800);
+}
+.button.gradient-green {
+  background: linear-gradient(#03ff03, #009600);
+  color: #fff;
+  border-color: #009600;
+}
+.button.gradient-green:hover {
+  background: linear-gradient(#03ff03, #007800);
+}
+.button.gradient-lightblue {
+  background: linear-gradient(#4dcbff, #00b4ff);
+  color: #fff;
+  border-color: #00b4ff;
+}
+.button.gradient-lightblue:hover {
+  background: linear-gradient(#4dcbff, #0090cc);
+}
+.button.gradient-blue {
+  background: linear-gradient(#4d9cff, #0072ff);
+  color: #fff;
+  border-color: #0072ff;
+}
+.button.gradient-blue:hover {
+  background: linear-gradient(#4d9cff, #005bcc);
+}
+.button.gradient-purple {
+  background: linear-gradient(#ba4dff, #9c00ff);
+  color: #fff;
+  border-color: #9c00ff;
+}
+.button.gradient-purple:hover {
+  background: linear-gradient(#ba4dff, #7d00cc);
+}
+.button.gradient-pink {
+  background: linear-gradient(#ff4dec, #ff00e4);
+  color: #fff;
+  border-color: #ff00e4;
+}
+.button.gradient-pink:hover {
+  background: linear-gradient(#ff4dec, #cc00b6);
+}
+.button.gradient-black {
+  background: linear-gradient(#585858, #111);
+  color: #fff;
+  border-color: #111;
+}
+.button.gradient-black:hover {
+  background: linear-gradient(#585858, #0e0e0e);
+}
+.button.gradient-white {
+  background: linear-gradient(#fff, #fff);
+  color: #fff;
+  border-color: #fff;
+}
+.button.gradient-white:hover {
+  background: linear-gradient(#fff, #ccc);
+}
+.button.gradient-gray {
+  background: linear-gradient(#dedede, #d0d0d0);
+  color: #fff;
+  border-color: #d0d0d0;
+}
+.button.gradient-gray:hover {
+  background: linear-gradient(#dedede, #a6a6a6);
+}
