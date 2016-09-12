@@ -36,6 +36,7 @@ Butns offers 6 different options in version 1.0.0
 * large
 * small
 * rounded
+* shadow
 
 ## Usage
 Here's how you get started using Butns!
