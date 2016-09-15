@@ -20,16 +20,17 @@ Butns offers 12 different colour choises in version 1.0.0
 * gray
 
 ## Types
-Butns offers 6 different button types in version 1.0.0
+Butns offers 7 different button types in version 1.1.2
 * fill-
 * fill-dark-
 * fill-whitish-
 * border-
 * border-dark-
 * border-whitish-
+* gradient-
 
 ## Options
-Butns offers 6 different options in version 1.0.0
+Butns offers 7 different options in version 1.1.2
 * transition
 * semi-transparent
 * medium
