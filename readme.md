@@ -52,4 +52,5 @@ Butns has all of Google's Material Design colors so it will fit any website usin
 
 # Usage
 To See how you can start using Butns, visit the [official website](http://butns.ga)!
+
 just a hint of using butns: ```<button class="butn red outline medium shadow"></button>``` it's that easy!
