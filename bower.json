@@ -1,0 +1,21 @@
+{
+  "name": "butns",
+  "description": "An advanced buttons library to step up your website's design",
+  "main": "dist/butns.css",
+  "authors": [
+    "Ahmed Tarek"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "buttons",
+    "butns"
+  ],
+  "homepage": "https://github.com/ahmedtarek2134/Butns",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

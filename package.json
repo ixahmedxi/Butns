@@ -1,35 +1,19 @@
 {
-  "name": "butns",
-  "version": "1.0.0",
-  "description": "Butns is an advanced buttons library for your website, using a set of pre defined classes you can fully customize your button and step up your website's design.",
-  "main": "gulpfile.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ahmedtarek2134/Butns.git"
-  },
-  "keywords": [
-    "css",
-    "stylus",
-    "gulp",
-    "js",
-    "html",
-    "buttons",
-    "butns"
-  ],
-  "author": "Ahmed Tarek",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/ahmedtarek2134/Butns/issues"
-  },
-  "homepage": "https://ahmedtarek2134.github.io/Butns",
-  "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-autoprefixer": "^3.1.1",
-    "gulp-clean-css": "^2.0.12",
-    "gulp-rename": "^1.2.2",
-    "gulp-stylus": "^2.5.0"
-  }
+ "name": "butns",
+ "version": "1.3.0",
+ "description": "An advanced buttons library to step up your website's design",
+ "main": "dist/butns.css",
+ "repository": "https://github.com/ahmedtarek2134/butns",
+ "author": "Ahmed Tarek",
+ "license": "MIT",
+ "devDependencies": {
+  "font-awesome": "^4.7.0",
+  "gulp": "^3.9.1",
+  "gulp-autoprefixer": "^4.0.0",
+  "gulp-csso": "^3.0.0",
+  "gulp-plumber": "^1.1.0",
+  "gulp-rename": "^1.2.2",
+  "gulp-stylus": "^2.6.0",
+  "normalize-css": "^2.3.1"
+ }
 }
