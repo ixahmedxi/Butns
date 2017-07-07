@@ -3,6 +3,7 @@
 
 # Installation
 There are many ways to install Butns
+* CDN: ```<link rel="stylesheet" href="http://butns.ga/dist/butns.min.css">```
 * Bower: ```bower install butns```
 * NPM: ```npm install butns```
 * Clone the repo: ```git clone git://github.com/ahmedtarek2134/Butns```
@@ -49,5 +50,6 @@ Butns has all of Google's Material Design colors so it will fit any website usin
 * shadow
 *	transition
 
-# Documentation
-You can view Butns documentation [here](http://butns.ga)
+# Usage
+To See how you can start using Butns, visit the [official website](http://butns.ga)!
+just a hint of using butns: ```<button class="butn red outline medium shadow"></button>``` it's that easy!
