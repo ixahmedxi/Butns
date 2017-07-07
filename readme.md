@@ -5,7 +5,7 @@
 There are many ways to install Butns
 * Bower: ```bower install butns```
 * NPM: ```npm install butns```
-* Clone the repo: ```git clone git://github.com/ahmedtarek2134/Butns
+* Clone the repo: ```git clone git://github.com/ahmedtarek2134/Butns```
 * Download the zip file
 
 # Available colors
