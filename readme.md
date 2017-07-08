@@ -3,7 +3,7 @@
 
 # Installation
 There are many ways to install Butns
-* CDN: ```<link rel="stylesheet" href="http://butns.ga/dist/butns.min.css">```
+* CDN: ```<link rel="stylesheet" href="https://unpkg.com/butns">```
 * Bower: ```bower install butns```
 * NPM: ```npm install butns```
 * Clone the repo: ```git clone git://github.com/ahmedtarek2134/Butns```
