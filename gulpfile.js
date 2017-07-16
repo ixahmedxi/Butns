@@ -39,7 +39,9 @@ gulp.task('cssmin', () => {
 	)
 })
 
-gulp.task('default', () => {
+gulp.task('default', ['stylus', 'site', 'cssmin'])
+
+gulp.task('watch', () => {
 	gulp.watch('src/*.styl', ['stylus', 'cssmin'])
 	gulp.watch('site/stylus/style.styl', ['site'])
 })
